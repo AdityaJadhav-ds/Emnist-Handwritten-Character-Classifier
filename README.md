@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Live Demo  
-👉 **https://cnnemnistdigit-alphapredictionapp-abhishektadaskar.streamlit.app/**  
+👉 **https://emnist-handwritten-character-classifier-aditya.streamlit.app/**  
 
 ---
 
