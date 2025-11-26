@@ -73,7 +73,7 @@ Emnist-Handwritten-Character-Classifier/
 
 ## ⚙️ Installation
 
-git clone https://github.com/AdityaJadhav-ds/Emnist-Handwritten-Character-Classifier
+git clone https://github.com/AdityaJadhav-ds/Emnist-Handwritten-Character-Classifier.git
 cd Emnist-Handwritten-Character-Classifier
 
 pip install -r requirements.txt
